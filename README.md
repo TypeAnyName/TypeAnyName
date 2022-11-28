@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a Software Engineer and contributing to backend for building API
 
 - :seedling: Exploring Technical Content Writing.
@@ -43,4 +43,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeAnyName&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
   
